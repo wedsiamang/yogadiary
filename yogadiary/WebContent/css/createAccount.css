@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.new-btn{
+	color: #000;
+  background-color: #99FFFF;
+  border-bottom: 5px solid #ccc100;
+}
+
+.new-btn:hover {
+  margin-top: 3px;
+  color: #000;
+  background: #99FFFF;
+  border-bottom: 2px solid #ccc100;
+}
